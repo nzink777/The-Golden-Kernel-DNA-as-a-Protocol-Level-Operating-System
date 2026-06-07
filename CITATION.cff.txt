@@ -4,8 +4,8 @@ authors:
   - family-names: "Zink"
     given-names: "Natasha"
     orcid: "https://orcid.org/0009-0004-8640-0896" 
-title: "Topological Geometrical Rectification: Harnessing Non-Invasive Energy Deltas via M4/T7 Lissajous Resonant Induction"
+title: "Golden Kernel DNA architecture of the Geometric Auto-Assembler"
 version: 1.0.0
 doi: "10.5281/zenodo.XXXXXXX" # Replace with the DOI Zenodo just gave you
 date-released: 2026-06-05
-url: "https://github.com/nzink777/Topological-Geometrical-Rectification"
+url: "https://github.com/nzink777/The-Golden-Kernel-DNA-as-a-Protocol-Level-Operating-System"
