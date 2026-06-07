@@ -1,0 +1,26 @@
+{
+  "registry_version": "1.0.0",
+  "entities": [
+    {
+      "tad_id": "TAD_H_001_CORTEX",
+      "species": "Homo sapiens",
+      "genome_coordinate": "chr1:12000000-13000000",
+      "function": "Cerebral Cortex Rendering",
+      "stable_fractal_node": "Hofstadter_Node_77",
+      "target_frequency_hz": 432.15,
+      "confidence_factor_threshold": 0.98,
+      "notes": "Boundary staples (UCE) verified for high-fidelity folding."
+    },
+    {
+      "tad_id": "TAD_A_042_WING",
+      "species": "Gallus gallus",
+      "genome_coordinate": "chr3:4500000-5500000",
+      "function": "Avian Wing Chassis",
+      "stable_fractal_node": "Hofstadter_Node_112",
+      "target_frequency_hz": 528.00,
+      "confidence_factor_threshold": 0.95,
+      "notes": "Requires harmonic alignment for lateral symmetry."
+    }
+  ]
+}
+'This file will serve as the "Lookup Table" that links a specific TAD container to its healthy geometric signature and the corresponding harmonic repair frequency.
